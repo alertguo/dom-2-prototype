@@ -38,6 +38,6 @@
 
 
 // $('<div>1</div>').appendTo(document.body)
-$('<div>1</div>').appendTo(document.body).print()
+// $('<div>1</div>').appendTo(document.body).print()
 
-// $('body').append($('<div>1</div>'))
+$('body').append($('<div>1</div>'))
