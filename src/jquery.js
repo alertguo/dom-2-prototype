@@ -1,5 +1,3 @@
-// const { fn } = require('jquery')
-
 window.$ = window.jQuery = function (selectorOrArrayOrTemplate) {
   let elements
   if (typeof selectorOrArrayOrTemplate === 'string') {
